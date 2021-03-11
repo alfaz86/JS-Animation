@@ -1,9 +1,9 @@
 # JS-Animation
 
-## About JS-Animation
+### About JS-Animation
 
 This project is to practice learning animation with JavaScript
 
-## Liblary
+### Library
 
 https://github.com/juliangarnier/anime/
